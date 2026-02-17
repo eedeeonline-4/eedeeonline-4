@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Edima 👋
 
-<!--
-**eedeeonline-4/eedeeonline-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Power BI | Python | SQL | Excel  
 
-Here are some ideas to get you started:
+I am a data analyst with 11+ years of professional experience in airline ground operations, now focused on transforming data into insights that support smarter business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I Do
+- Build interactive dashboards in Power BI
+- Analyze datasets using Python (Pandas, Matplotlib)
+- Query and analyze data using SQL
+- Perform data cleaning and transformation
+- Turn business problems into data-driven solutions
+
+## 📊 Featured Projects
+- 📱 Telecom Customer Churn Analysis (Python)
+- 🛒 Retail Sales Dashboard (Power BI)
+- 🎬 Amazon Prime Content Analysis (Excel)
+- 🛒 FMCG Sales Analysis (SQL)
+- 📱 Social Media & Mental Health Dashboard (Power BI)
+
+## 🛠 Tools & Technologies
+Python | SQL | Power BI | Excel | Pandas | Matplotlib | Seaborn | DAX
+
+## 🌐 Portfolio
+👉 https://www.notion.so/Data-Analyst-Portfolio-Edima-Udoukpong-308cc5ee0f0a80db9599c9dd0d9d2f49?source=copy_link
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/edima-udoukpong-b185472a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- Email: eedeeonline@gmail.com
+
