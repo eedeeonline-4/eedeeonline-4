@@ -25,6 +25,6 @@ Python | SQL | Power BI | Excel | Pandas | Matplotlib | Seaborn | DAX
 👉 https://www.notion.so/Data-Analyst-Portfolio-Edima-Udoukpong-308cc5ee0f0a80db9599c9dd0d9d2f49?source=copy_link
 
 ## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/edima-udoukpong-b185472a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- LinkedIn:www.linkedin.com/in/edima-udoukpong-55b63a3b1
 - Email: eedeeonline@gmail.com
 
