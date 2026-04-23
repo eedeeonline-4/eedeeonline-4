@@ -26,5 +26,5 @@ Python | SQL | Power BI | Excel | Pandas | Matplotlib | Seaborn | DAX
 
 ## 📫 Contact Me
 - LinkedIn:www.linkedin.com/in/edima-udoukpong-55b63a3b1
-- Email: eedeeonline@gmail.com
+- Email: edimaudoukpong@gmail.com
 
